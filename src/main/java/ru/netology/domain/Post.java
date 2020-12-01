@@ -32,6 +32,8 @@ public class Post {
     private boolean isfavorite;
     private int postponedId;
 
+
+
     public int getId() {
         return id;
     }
